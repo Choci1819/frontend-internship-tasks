@@ -38,7 +38,3 @@ This project is a React-based Single-Page Application (SPA) that demonstrates dy
 
 - Update `src/App.css` to modify the UI.
 - Change the API endpoint in `src/App.js` to fetch different data.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
